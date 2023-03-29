@@ -2,7 +2,7 @@
 Erroneous translations found by using SSIMT (Semantic Structure Invariance-based Metamorphic Testing).
 
 
-### :telescope: Template of the erroneous issues
+### :telescope: Template of the erroneous translations
 + Col 1: Error Category
 + Col 2: Source Sentence <sub>(in English)
 + Col 3: Target Sentence <sub>(in Chinese)
